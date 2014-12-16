@@ -1,4 +1,4 @@
-firsthello
+newfirsthello
 ==========
 
 initial repo
